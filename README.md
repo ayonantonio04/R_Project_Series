@@ -1,4 +1,4 @@
-# R Projects Math 189
+# R Projects: Exploratory Data Analysis and Interface
 
 ## These are a series of projects done within a 10 week period in hopes of strengthening statistical data analysis and formulating own conclusions. 
 
